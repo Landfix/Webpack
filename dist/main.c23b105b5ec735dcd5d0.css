@@ -1,0 +1,47 @@
+@font-face{
+    font-family: 'Gunny Rewritten';
+    src: url(8672d29f615df6228318a3bc6c5210e6.ttf) format('truetype');
+}
+body{
+    font-family: 'Gunny Rewritten';
+}
+.container{
+    max-width: 1000em;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+}
+
+.logo{
+    background-image: url(17aca31fbb73f8e20750361fcc0b21bd.png);
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+.code{
+    color:tomato;
+}
+.box {
+  padding: 1rem;
+  border-radius: 5px;
+  margin-top: 1rem;
+  border: 1px solid black;
+}
+h2 {
+  text-align: center;
+  font-weight: 900;
+  color: darkblue;
+}
+
+.energy {
+  padding: 1rem;
+  border-radius: 5px;
+  margin-top: 1rem;
+  border: 1px solid blue; }
+  .energy h2 {
+    text-align: center;
+    font-weight: 900;
+    color: darkred; }
+
